@@ -1,0 +1,5 @@
+﻿  0306.cpp
+C:\work\C++0306\0306.cpp(44,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\work\C++0306\0306.cpp(15,6): warning C4101: 'brackjackcomputer': unreferenced local variable
+C:\work\C++0306\0306.cpp(14,6): warning C4101: 'brackjackhuman': unreferenced local variable
+  C++0306.vcxproj -> C:\work\C++0306\x64\Debug\C++0306.exe
