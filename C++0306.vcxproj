@@ -125,6 +125,8 @@
   <ItemGroup>
     <ClCompile Include="0306.cpp" />
     <ClCompile Include="Blackjack.cpp" />
+    <ClCompile Include="c0336.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

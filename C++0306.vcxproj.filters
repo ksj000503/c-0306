@@ -21,5 +21,11 @@
     <ClCompile Include="Blackjack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="c0336.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\work\\C\u002B\u002B0306\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF683EB2-C414-4D0C-83C6-ED95363DEAC8}|C\u002B\u002B0306.vcxproj|C:\\work\\C\u002B\u002B0306\\Blackjack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FF683EB2-C414-4D0C-83C6-ED95363DEAC8}|C\u002B\u002B0306.vcxproj|solutionrelative:Blackjack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FF683EB2-C414-4D0C-83C6-ED95363DEAC8}|C\u002B\u002B0306.vcxproj|C:\\work\\C\u002B\u002B0306\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF683EB2-C414-4D0C-83C6-ED95363DEAC8}|C\u002B\u002B0306.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF683EB2-C414-4D0C-83C6-ED95363DEAC8}|C\u002B\u002B0306.vcxproj|C:\\work\\C\u002B\u002B0306\\0306.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FF683EB2-C414-4D0C-83C6-ED95363DEAC8}|C\u002B\u002B0306.vcxproj|solutionrelative:0306.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FF683EB2-C414-4D0C-83C6-ED95363DEAC8}|C\u002B\u002B0306.vcxproj|C:\\work\\C\u002B\u002B0306\\c0336.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF683EB2-C414-4D0C-83C6-ED95363DEAC8}|C\u002B\u002B0306.vcxproj|solutionrelative:c0336.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF683EB2-C414-4D0C-83C6-ED95363DEAC8}|C\u002B\u002B0306.vcxproj|C:\\work\\C\u002B\u002B0306\\Blackjack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF683EB2-C414-4D0C-83C6-ED95363DEAC8}|C\u002B\u002B0306.vcxproj|solutionrelative:Blackjack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\work\\C\u002B\u002B0306\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\work\\C\u002B\u002B0306\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T08:15:14.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Blackjack.cpp",
               "DocumentMoniker": "C:\\work\\C\u002B\u002B0306\\Blackjack.cpp",
               "RelativeDocumentMoniker": "Blackjack.cpp",
               "ToolTip": "C:\\work\\C\u002B\u002B0306\\Blackjack.cpp",
               "RelativeToolTip": "Blackjack.cpp",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAowIMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-06T01:55:02.903Z",
+              "WhenOpened": "2026-03-06T08:14:20.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "0306.cpp",
-              "DocumentMoniker": "C:\\work\\C\u002B\u002B0306\\0306.cpp",
-              "RelativeDocumentMoniker": "0306.cpp",
-              "ToolTip": "C:\\work\\C\u002B\u002B0306\\0306.cpp",
-              "RelativeToolTip": "0306.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEQAAAAjAAAAAAAAAA==",
+              "Title": "c0336.cpp",
+              "DocumentMoniker": "C:\\work\\C\u002B\u002B0306\\c0336.cpp",
+              "RelativeDocumentMoniker": "c0336.cpp",
+              "ToolTip": "C:\\work\\C\u002B\u002B0306\\c0336.cpp",
+              "RelativeToolTip": "c0336.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-05T23:58:46.558Z",
+              "WhenOpened": "2026-03-06T06:36:07.216Z",
               "EditorCaption": ""
             }
           ]
